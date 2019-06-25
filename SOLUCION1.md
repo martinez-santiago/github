@@ -2,7 +2,9 @@ ubuntu-mate@ubuntu-mate:~$ mkdir git
 ubuntu-mate@ubuntu-mate:~$ cd git
 ubuntu-mate@ubuntu-mate:~/git$ git init
 
+
 No se ha encontrado la orden «git», pero se puede instalar con:
+
 
 sudo apt install git
 
