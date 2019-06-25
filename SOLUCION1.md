@@ -1,3 +1,4 @@
+
 ubuntu-mate@ubuntu-mate:~$ mkdir git
 ubuntu-mate@ubuntu-mate:~$ cd git
 ubuntu-mate@ubuntu-mate:~/git$ git init
