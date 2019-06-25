@@ -47,7 +47,6 @@ ubuntu-mate@ubuntu-mate:~/git$ git status
 En la rama master
 
 No hay commits todavía
-
 no hay nada para confirmar (crea/copia archivos y usa "git add" para hacerles seguimiento)
 ubuntu-mate@ubuntu-mate:~/git$ nano
 
