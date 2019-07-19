@@ -1,5 +1,6 @@
 # ¡Bienvenido!
 * Escenario 2 - Cometer cambios
+
  Dificultad: principiante
  Tiempo estimado: 10 minutos
 
