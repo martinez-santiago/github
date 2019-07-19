@@ -76,6 +76,7 @@ A cada confirmación se le asigna un hash SHA-1 que le permite consultar la conf
 
 >git commit -m "Primer Commit"
 
+
 ## Paso 5 - Git Ignorar
 
 A veces hay archivos o directorios particulares que nunca desea confirmar, como la configuración de desarrollo local. Para ignorar estos archivos, cree un archivo .gitignore en la raíz del repositorio.
