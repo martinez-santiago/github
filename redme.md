@@ -6,7 +6,7 @@
 
 Por otro lado, **Python** es un lenguaje de programación que se usa en muchos casos en el mundo, el cual se identifica como un lenguaje de programación de alto nivel, razón por la que es más sencillo de aprender y con la ventaja de ser de código abierto.
 
-## Para qué sirve Python?
+##Para qué sirve Python?
 
 Al hablar de para qué sirve Python hay que resaltar que uno de los objetivos con este lenguaje de programación es que se automaticen procesos para que así se consiga ahorrar tiempo y evitar complicaciones. Por esa razón son varias las soluciones que se logran con pocas líneas de código en este programa.
 
@@ -35,9 +35,11 @@ El testing, que suele ser una de las tareas más arduas, se convierte en algo mu
 * El uso de Python está muy extendido en el análisis datos y la extracción de información útil para empresas. **BIg Data**
 Además de su simplicidad, que es una gran ventaja, Python cuenta con bibliotecas de procesamiento de datos como ‘Pydoop‘ , que son de gran ayuda para los profesionales, ya que puede escribir un código de MapReduce en Python y procesar los datos en el clúster HDFS.
 
+
 ### Definición de algunas de las estructuras de control de flujo en Python
 
 #### if 
+
 La estructura de control if ... permite que un programa ejecute unas instrucciones cuando se cumplan una condición. En inglés "if" significa "si" (condición).
 Sintaxis de la sentencia condicional if ...
 
