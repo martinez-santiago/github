@@ -3,6 +3,7 @@
   Dificultad: principiante
   Tiempo estimado: 10 minutos
 
+
 En este escenario, aprenderá cómo puede compartir los cambios en su repositorio con otras personas y combinar sus cambios en su repositorio. Este entorno se ha configurado con un repositorio Git con un solo compromiso. Se configura un repositorio remoto pero no se ha vinculado al repositorio local.
 
 Dado que Git es un sistema de control de versiones distribuido, significa que el repositorio local contiene todos los registros, archivos y cambios realizados desde que se inicializó el repositorio. Para garantizar que todos estén trabajando en la versión más reciente, los cambios deben compartirse. Al compartir estos cambios con otros repositorios, solo se sincronizarán las diferencias haciendo que el proceso sea extremadamente rápido.
