@@ -1,5 +1,6 @@
 # ¡Bienvenido!
 
+
 - Escenario 1 - Comprometer archivos
   Dificultad: principiante
   Tiempo estimado: 10 minutos
